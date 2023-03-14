@@ -4,3 +4,5 @@ ok 3
 ok 4
 ok 5
 ok 6
+ok 9
+10
